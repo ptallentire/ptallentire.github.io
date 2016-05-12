@@ -4,4 +4,4 @@ title: "First post :-)"
 date: 2016-01-03
 ---
 
-Done... and this is just some extra text.
+Done.... and this is just some extra text.
